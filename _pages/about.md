@@ -11,6 +11,93 @@ I am a Ph.D. student in Computer Vision at Zhejiang University, advised by Prof.
 
 My research interests lie in image matching, multi-modal image processing, and 3D reconstruction/perception, etc.
 
+---
+
+## 📚 Selected Publications
+
+### Image Matching
+
+<table style="border: none;">
+
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-SSHNet.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Reformulation and Split Optimization</b><br>
+      Junchen Yu, Si-Yuan Cao†, <b>Runmin Zhang</b>, Chenghao Zhang, Zhu Yu, Shujie Chen, Bailin Yang, and Hui-Liang Shen<br>
+      <em>Computer Vision and Pattern Recognition (CVPR), 2025 <span style="color: #C00000; font-weight: bold;">(Highlight)</span></em><br>
+      <a href="https://arxiv.org/abs/2409.17993#:~:text=SSHNet%20reformulates%20the%20unsupervised%20cross-modal%20homography%20estimation%20into,homography%20estimation%20network%20and%20a%20modality%20transfer%20network.">[Paper]</a>
+      <a href="https://github.com/Junchen-Yu/SSHNet">[Code]</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-SCPNet.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>SCPNet: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning</b><br>
+      <b>Runmin Zhang</b>*, Jun Ma*, Si-Yuan Cao*†, Lun Luo, Beinan Yu, Shu-Jie Chen, Junwei Li, and Hui-Liang Shen<br>
+      <em>European Conference on Computer Vision (ECCV), 2024</em><br>
+      <a href="https://arxiv.org/abs/2407.08148">[Paper]</a>
+      <a href="https://github.com/RM-Zhang/SCPNet">[Code]</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-RHWF.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>Recurrent Homography Estimation Using Homography-Guided Image Warping and Focus Transformer</b><br>
+      Si-Yuan Cao, <b>Runmin Zhang</b>, Lun Luo, Beinan Yu, Zehua Sheng, Junwei Li, and Hui-Liang Shen<br>
+      <em>Computer Vision and Pattern Recognition (CVPR), 2023</em><br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.html">[Paper]</a>
+      <a href="https://github.com/imdumpl78/RHWF">[Code]</a>
+    </td>
+  </tr>
+
+</table>
+
+### Multi-modal Image Processing
+
+<table style="border: none;">
+
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-SGDFormer.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising</b><br>
+      <b>Runmin Zhang</b>, Zhu Yu, Zehua Sheng, Jiacheng Ying†, Si-Yuan Cao, Shu-Jie Chen, Bailin Yang, Junwei Li, and Hui-Liang Shen†<br>
+      <em>Information Fusion, 2025</em><br>
+      <a href="https://www.sciencedirect.com/science/article/pii/S1566253524003816">[Paper]</a>
+      <a href="https://github.com/RM-Zhang/SGDFormer">[Code]</a>
+    </td>
+  </tr>
+
+</table>
+
+### 3D Reconstruction/Perception
+
+<table style="border: none;">
+
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-CGFormer.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>Context and Geometry Aware Voxel Transformer for Semantic Scene Completion</b><br>
+      Zhu Yu, <b>Runmin Zhang</b>, Jiacheng Ying, Junchen Yu, Xiaohai Hu, Lun Luo, Si-Yuan Cao†, and Hui-Liang Shen†<br>
+      <em>Conference on Neural Information Processing Systems (NeurIPS), 2024 <span style="color: #C00000; font-weight: bold;">(Spotlight)</span></em><br>
+      <a href="https://arxiv.org/abs/2405.13675">[Paper]</a>
+      <a href="https://github.com/pkqbajng/CGFormer">[Code]</a>
+    </td>
+  </tr>
+
+</table>
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
