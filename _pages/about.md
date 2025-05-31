@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D. student in computer vision at Zhejiang University, advised by Prof. <a href="https://scholar.google.com/citations?user=qfAg9nUAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Hui-Liang Shen</a> and Dr. <a href="https://scholar.google.com/citations?user=G35eh30AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Si-Yuan Cao</a>. Previously, I earned my bachelor's degree from Zhejiang University.
 </p>
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
-My research interests lie in image matching, 3D reconstruction/perception, and multi-modal image processing, etc. Feel free to contact me using Email (runmin_zhang@zju.edu.cn) or Wechat (13453731698).
+My research interests lie in image matching, 3D reconstruction/perception, and multi-modal image processing, etc. Feel free to contact me using Email (runmin_zhang@zju.edu.cn).
 </p>
 
 ## 📚 Selected Publications
