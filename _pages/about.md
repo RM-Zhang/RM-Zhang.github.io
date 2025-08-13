@@ -11,13 +11,53 @@ redirect_from:
 I am a Ph.D. student in computer vision at Zhejiang University, advised by Prof. <a href="https://scholar.google.com/citations?user=qfAg9nUAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Hui-Liang Shen</a> and Dr. <a href="https://scholar.google.com/citations?user=G35eh30AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Si-Yuan Cao</a>. Previously, I earned my bachelor's degree from Zhejiang University.
 </p>
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
-My research interests lie in image matching, 3D reconstruction/perception, and multi-modal image processing, etc. Feel free to contact me using Email (runmin_zhang@zju.edu.cn) or Wechat (13453731698).
+My research interests lie in image matching, 3D reconstruction/perception, and multi-modal image processing, etc. Feel free to contact me using Email (runmin_zhang@zju.edu.cn).
 </p>
 
 ## 📚 Selected Publications
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
 *equal contribution; †corresponding author.
 </p>
+
+### 3D Reconstruction/Perception
+<table style="border: none;">
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-SGCDet.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>Boosting Multi-View Indoor 3D Object Detection via Adaptive 3D Volume Construction</b><br>
+      <b>Runmin Zhang</b>, Zhu Yu†, Si-Yuan Cao†, Lingyu Zhu, Guangyi Zhang, Xiaokai Bai, Hui-Liang Shen<br>
+      <em>International Conference on Computer Vision (ICCV), 2025</em><br>
+      <a href="https://arxiv.org/abs/2507.18331">[Paper]</a>
+      <a href="https://github.com/RM-Zhang/SGCDet">[Code]</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-LOcc.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>Language Driven Occupancy Prediction</b><br>
+      Zhu Yu, Bowen Pang, Lizhe Liu, <b>Runmin Zhang</b>, Qiang Li, Si-Yuan Cao, Maochun Luo, Mingxia Chen, Sheng Yang, Hui-liang Shen<br>
+      <em>International Conference on Computer Vision (ICCV), 2025</em><br>
+      <a href="https://arxiv.org/abs/2411.16072">[Paper]</a>
+      <a href="https://github.com/pkqbajng/LOcc">[Code]</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-CGFormer.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>Context and Geometry Aware Voxel Transformer for Semantic Scene Completion</b><br>
+      Zhu Yu, <b>Runmin Zhang</b>, Jiacheng Ying, Junchen Yu, Xiaohai Hu, Lun Luo, Si-Yuan Cao†, and Hui-Liang Shen†<br>
+      <em>Conference on Neural Information Processing Systems (NeurIPS), 2024 <span style="color: #C00000; font-weight: bold;">(Spotlight)</span></em><br>
+      <a href="https://arxiv.org/abs/2405.13675">[Paper]</a>
+      <a href="https://github.com/pkqbajng/CGFormer">[Code]</a>
+    </td>
+  </tr>
+</table>
 
 ### Image Matching
 <table style="border: none;">
@@ -75,28 +115,12 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
   </tr>
 </table>
 
-### 3D Reconstruction/Perception
-<table style="border: none;">
-  <tr>
-    <td width="160" style="border: none;">
-      <img src="/images/pub_tearse/tearse-CGFormer.png" width="150">
-    </td>
-    <td style="border: none;">
-      <b>Context and Geometry Aware Voxel Transformer for Semantic Scene Completion</b><br>
-      Zhu Yu, <b>Runmin Zhang</b>, Jiacheng Ying, Junchen Yu, Xiaohai Hu, Lun Luo, Si-Yuan Cao†, and Hui-Liang Shen†<br>
-      <em>Conference on Neural Information Processing Systems (NeurIPS), 2024 <span style="color: #C00000; font-weight: bold;">(Spotlight)</span></em><br>
-      <a href="https://arxiv.org/abs/2405.13675">[Paper]</a>
-      <a href="https://github.com/pkqbajng/CGFormer">[Code]</a>
-    </td>
-  </tr>
-</table>
-
 ## Services
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
 <b>Journal Reviewer</b>：TIP
 </p>
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
-<b>Conference Reviewer</b>：NeurIPS 2024, CVPR 2025, ICML 2025, ICCV 2025
+<b>Conference Reviewer</b>：CVPR, ICCV, NeurIPS, ICML, AAAI
 </p>
 
 

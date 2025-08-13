@@ -16,6 +16,31 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 <table style="border: none; width: 100%;">
   <tr>
     <td style="border: none;">
+      <b>Boosting Multi-View Indoor 3D Object Detection via Adaptive 3D Volume Construction</b><br>
+      <b>Runmin Zhang</b>, Zhu Yu†, Si-Yuan Cao†, Lingyu Zhu, Guangyi Zhang, Xiaokai Bai, Hui-Liang Shen<br>
+      <em>International Conference on Computer Vision (ICCV), 2025</em><br>
+      <a href="https://arxiv.org/abs/2507.18331">[Paper]</a>
+      <a href="https://github.com/RM-Zhang/SGCDet">[Code]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <b>Language Driven Occupancy Prediction</b><br>
+      Zhu Yu, Bowen Pang, Lizhe Liu, <b>Runmin Zhang</b>, Qiang Li, Si-Yuan Cao, Maochun Luo, Mingxia Chen, Sheng Yang, Hui-liang Shen<br>
+      <em>International Conference on Computer Vision (ICCV), 2025</em><br>
+      <a href="https://arxiv.org/abs/2411.16072">[Paper]</a>
+      <a href="https://github.com/pkqbajng/LOcc">[Code]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <b>EDFFDNet: Towards Accurate and Efficient Unsupervised Multi-Grid Image Registration</b><br>
+      Haokai Zhu, Bo Qu, Si-Yuan Cao, <b>Runmin Zhang</b>, Shujie Chen, Bailin Yang, Hui-liang Shen<br>
+      <em>International Conference on Computer Vision (ICCV), 2025</em><br>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
       <b>SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Reformulation and Split Optimization</b><br>
       Junchen Yu, Si-Yuan Cao†, <b>Runmin Zhang</b>, Chenghao Zhang, Zhu Yu, Shujie Chen, Bailin Yang, and Hui-Liang Shen<br>
       <em>Computer Vision and Pattern Recognition (CVPR), 2025 <span style="color: #C00000; font-weight: bold;">(Highlight)</span></em><br>
@@ -85,15 +110,6 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       <em>IEEE Transactions on Intelligent Vehicles (TIV), 2024</em><br>
       <a href="https://ieeexplore.ieee.org/document/10681477">[Paper]</a>
       <a href="https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection">[Code]</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none;">
-      <b>Language Driven Occupancy Prediction</b><br>
-      Zhu Yu, Bowen Pang, Lizhe Liu†, <b>Runmin Zhang</b>, Qihao Peng, Maochun Luo, Sheng Yang, Mingxia Chen, Si-Yuan Cao, Hui-Liang Shen†<br>
-      <em>arXiv, 2024</em><br>
-      <a href="https://arxiv.org/abs/2411.16072">[Paper]</a>
-      <a href="https://github.com/pkqbajng/LOcc">[Code]</a>
     </td>
   </tr>
   <tr>
