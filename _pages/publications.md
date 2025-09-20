@@ -35,8 +35,9 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
   <tr>
     <td style="border: none;">
       <b>EDFFDNet: Towards Accurate and Efficient Unsupervised Multi-Grid Image Registration</b><br>
-      Haokai Zhu, Bo Qu, Si-Yuan Cao, <b>Runmin Zhang</b>, Shujie Chen, Bailin Yang, Hui-liang Shen<br>
+      Haokai Zhu*, Bo Qu*, Si-Yuan Cao†, <b>Runmin Zhang</b>, Shujie Chen, Bailin Yang, Hui-liang Shen<br>
       <em>International Conference on Computer Vision (ICCV), 2025</em><br>
+      <a href="https://arxiv.org/abs/2509.07662">[Paper]</a>
     </td>
   </tr>
   <tr>
@@ -54,6 +55,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       Guangyi Zhang, Hanlei Li, Yunlong Cai†, Qiyu Hu, Guanding Yu, <b>Runmin Zhang</b><br>
       <em>AAAI Conference on Artificial Intelligence (AAAI), 2025</em><br>
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33442">[Paper]</a>
+      <a href="https://github.com/zhang-guangyi/HJSCC">[Code]</a>
     </td>
   </tr>
   <tr>
@@ -61,6 +63,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       <b>Structure-Aware Radar-Camera Depth Estimation</b><br>
       Fuyi Zhang, Zhu Yu†, Chunhao Li, <b>Runmin Zhang</b>, Xiaokai Bai, Zili Zhou, Si-Yuan Cao, Fang Wang, and Hui-Liang Shen†<br>
       <em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em><br>
+      <a href="https://arxiv.org/abs/2506.05008">[Paper]</a>
       <a href="https://github.com/FreyZhangYeh/SA-RCD">[Code]</a>
     </td>
   </tr>
@@ -79,6 +82,14 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       Zhe Wu, Zehua Sheng, Xue Zhang, Si-Yuan Cao, <b>Runmin Zhang</b>, Beinan Yu, Chenghao Zhang, Bailin Yang, Hui-Liang Shen†<br>
       <em>Pattern Recognition, 2025</em><br>
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324009312">[Paper]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <b>TEFormer: Thermal Infrared Image Enhancement by Preserving Spatial Consistency and Details</b><br>
+      Zhe Wu*, Yunxin Li*, <b>Runmin Zhang</b>, Si-Yuan Cao†, Jiacheng Ying, Xiaohan Zhang, Xiaokai Bai, Shujie Chen, Bailin Yang, and Hui-Liang Shen†<br>
+      <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025</em><br>
+      <a href="https://ieeexplore.ieee.org/document/11172677">[Paper]</a>
     </td>
   </tr>
 </table>
