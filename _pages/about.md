@@ -39,7 +39,7 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
     </td>
     <td style="border: none;">
       <b>Language Driven Occupancy Prediction</b><br>
-      Zhu Yu, Bowen Pang, Lizhe Liu, <b>Runmin Zhang</b>, Qiang Li, Si-Yuan Cao, Maochun Luo, Mingxia Chen, Sheng Yang, Hui-liang Shen<br>
+      Zhu Yu*, Bowen Pang*, Lizhe Liu†, <b>Runmin Zhang</b>, Qiang Li, Si-Yuan Cao, Maochun Luo, Mingxia Chen, Sheng Yang, Hui-liang Shen†<br>
       <em>International Conference on Computer Vision (ICCV), 2025</em><br>
       <a href="https://arxiv.org/abs/2411.16072">[Paper]</a>
       <a href="https://github.com/pkqbajng/LOcc">[Code]</a>
@@ -51,7 +51,7 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
     </td>
     <td style="border: none;">
       <b>Context and Geometry Aware Voxel Transformer for Semantic Scene Completion</b><br>
-      Zhu Yu, <b>Runmin Zhang</b>, Jiacheng Ying, Junchen Yu, Xiaohai Hu, Lun Luo, Si-Yuan Cao†, and Hui-Liang Shen†<br>
+      Zhu Yu, <b>Runmin Zhang</b>, Jiacheng Ying, Junchen Yu, Xiaohai Hu, Lun Luo, Si-Yuan Cao†, Hui-Liang Shen†<br>
       <em>Conference on Neural Information Processing Systems (NeurIPS), 2024 <span style="color: #C00000; font-weight: bold;">(Spotlight)</span></em><br>
       <a href="https://arxiv.org/abs/2405.13675">[Paper]</a>
       <a href="https://github.com/pkqbajng/CGFormer">[Code]</a>
@@ -67,7 +67,7 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
     </td>
     <td style="border: none;">
       <b>SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Reformulation and Split Optimization</b><br>
-      Junchen Yu, Si-Yuan Cao†, <b>Runmin Zhang</b>, Chenghao Zhang, Zhu Yu, Shujie Chen, Bailin Yang, and Hui-Liang Shen<br>
+      Junchen Yu, Si-Yuan Cao†, <b>Runmin Zhang</b>, Chenghao Zhang, Zhu Yu, Shujie Chen, Bailin Yang, Hui-Liang Shen<br>
       <em>Computer Vision and Pattern Recognition (CVPR), 2025 <span style="color: #C00000; font-weight: bold;">(Highlight)</span></em><br>
       <a href="https://arxiv.org/abs/2409.17993#:~:text=SSHNet%20reformulates%20the%20unsupervised%20cross-modal%20homography%20estimation%20into,homography%20estimation%20network%20and%20a%20modality%20transfer%20network.">[Paper]</a>
       <a href="https://github.com/Junchen-Yu/SSHNet">[Code]</a>
@@ -79,7 +79,7 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
     </td>
     <td style="border: none;">
       <b>SCPNet: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning</b><br>
-      <b>Runmin Zhang</b>*, Jun Ma*, Si-Yuan Cao*†, Lun Luo, Beinan Yu, Shu-Jie Chen, Junwei Li, and Hui-Liang Shen<br>
+      <b>Runmin Zhang</b>*, Jun Ma*, Si-Yuan Cao*†, Lun Luo, Beinan Yu, Shu-Jie Chen, Junwei Li, Hui-Liang Shen<br>
       <em>European Conference on Computer Vision (ECCV), 2024</em><br>
       <a href="https://arxiv.org/abs/2407.08148">[Paper]</a>
       <a href="https://github.com/RM-Zhang/SCPNet">[Code]</a>
@@ -91,7 +91,7 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
     </td>
     <td style="border: none;">
       <b>Recurrent Homography Estimation Using Homography-Guided Image Warping and Focus Transformer</b><br>
-      Si-Yuan Cao, <b>Runmin Zhang</b>, Lun Luo†, Beinan Yu, Zehua Sheng, Junwei Li, and Hui-Liang Shen<br>
+      Si-Yuan Cao, <b>Runmin Zhang</b>, Lun Luo†, Beinan Yu, Zehua Sheng, Junwei Li, Hui-Liang Shen<br>
       <em>Computer Vision and Pattern Recognition (CVPR), 2023</em><br>
       <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.html">[Paper]</a>
       <a href="https://github.com/imdumpl78/RHWF">[Code]</a>
@@ -107,7 +107,7 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
     </td>
     <td style="border: none;">
       <b>SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising</b><br>
-      <b>Runmin Zhang</b>, Zhu Yu, Zehua Sheng, Jiacheng Ying†, Si-Yuan Cao, Shu-Jie Chen, Bailin Yang, Junwei Li, and Hui-Liang Shen†<br>
+      <b>Runmin Zhang</b>, Zhu Yu, Zehua Sheng, Jiacheng Ying†, Si-Yuan Cao, Shu-Jie Chen, Bailin Yang, Junwei Li, Hui-Liang Shen†<br>
       <em>Information Fusion, 2025</em><br>
       <a href="https://www.sciencedirect.com/science/article/pii/S1566253524003816">[Paper]</a>
       <a href="https://github.com/RM-Zhang/SGDFormer">[Code]</a>
@@ -120,7 +120,7 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
 <b>Journal Reviewer</b>：TIP
 </p>
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
-<b>Conference Reviewer</b>：CVPR, ICCV, NeurIPS, ICML, AAAI
+<b>Conference Reviewer</b>：CVPR, ICCV, NeurIPS, ICML, ICLR, AAAI, PRCV
 </p>
 
 
