@@ -12,6 +12,26 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 *equal contribution; †corresponding author.
 </p>
 
+### 2026
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none;">
+      <b>Rethinking Unsupervised Cross-modal Flow Estimation: Learning from Decoupled Optimization and Consistency Constraint</b><br>
+      <b>Runmin Zhang</b>, Jialiang Wang, Si-Yuan Cao†, Zhu Yu, Junchen Yu, Guangyi Zhang, Hui-Liang Shen<br>
+      <em>International Conference on Learning Representations (ICLR), 2026</em><br>
+      <a href="https://arxiv.org/abs/2509.24423">[Paper]</a>
+      <a href="https://github.com/RM-Zhang/DCFlow">[Code]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <b>Large Depth Completion Model from Sparse Observations</b><br>
+      Zhu Yu, Zhengyi Zhao, <b>Runmin Zhang</b>, Lingteng Qiu, Kejie Qiu, Yisheng He, Siyu Zhu, Zilong Dong†, Si-Yuan Cao†, Hui-liang Shen<br>
+      <em>International Conference on Learning Representations (ICLR), 2026</em><br>
+    </td>
+  </tr>
+</table>
+
 ### 2025
 <table style="border: none; width: 100%;">
   <tr>
@@ -98,6 +118,14 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       Zhe Wu*, Yunxin Li*, <b>Runmin Zhang</b>, Si-Yuan Cao†, Jiacheng Ying, Xiaohan Zhang, Xiaokai Bai, Shujie Chen, Bailin Yang, Hui-Liang Shen†<br>
       <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025</em><br>
       <a href="https://ieeexplore.ieee.org/document/11172677">[Paper]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <b>Beyond Registration: Self-supervised Unknown Border Completion</b><br>
+      Xiaokai Bai, Jun Ma, Leyuan Yu, <b>Runmin Zhang</b>, Hui-Liang Shen, Beinan Yu†, Si-Yuan Cao<br>
+      <em>Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025</em><br>
+      <a href="https://link.springer.com/chapter/10.1007/978-981-95-5682-3_18">[Paper]</a>
     </td>
   </tr>
 </table>
