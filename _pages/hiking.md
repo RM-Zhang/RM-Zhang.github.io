@@ -202,18 +202,18 @@ Outside of research, I enjoy marathon running and hiking. This page keeps a smal
     <section class="activity-entry">
       <div class="activity-entry__header">
         <h3>West Lake Xiaoma Trail</h3>
-        <span class="activity-entry__date">Jan 2, 2026</span>
+        <span class="activity-entry__date">Jan 24, 2026</span>
       </div>
       <div class="activity-media">
         <figure class="activity-shot">
-          <a class="image-popup" href="/images/hiking/20260102-%E8%A5%BF%E6%B9%96%E5%B0%8F%E9%A9%AC%E7%BA%BF.jpg">
-            <img src="/images/hiking/20260102-%E8%A5%BF%E6%B9%96%E5%B0%8F%E9%A9%AC%E7%BA%BF.jpg" alt="West Lake Xiaoma hiking photo">
+          <a class="image-popup" href="/images/hiking/20260124-%E8%A5%BF%E6%B9%96%E5%B0%8F%E9%A9%AC%E7%BA%BF.jpg">
+            <img src="/images/hiking/20260124-%E8%A5%BF%E6%B9%96%E5%B0%8F%E9%A9%AC%E7%BA%BF.jpg" alt="West Lake Xiaoma hiking photo">
           </a>
           <figcaption>Trail photo</figcaption>
         </figure>
         <figure class="activity-shot">
-          <a class="image-popup" href="/images/hiking/20260102-%E8%A5%BF%E6%B9%96%E5%B0%8F%E9%A9%AC%E7%BA%BF-COROS.jpg">
-            <img src="/images/hiking/20260102-%E8%A5%BF%E6%B9%96%E5%B0%8F%E9%A9%AC%E7%BA%BF-COROS.jpg" alt="COROS record for West Lake Xiaoma Trail">
+          <a class="image-popup" href="/images/hiking/20260124-%E8%A5%BF%E6%B9%96%E5%B0%8F%E9%A9%AC%E7%BA%BF-COROS.jpg">
+            <img src="/images/hiking/20260124-%E8%A5%BF%E6%B9%96%E5%B0%8F%E9%A9%AC%E7%BA%BF-COROS.jpg" alt="COROS record for West Lake Xiaoma Trail">
           </a>
           <figcaption>Route record</figcaption>
         </figure>
