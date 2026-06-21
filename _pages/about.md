@@ -15,7 +15,7 @@ redirect_from:
 I am a Ph.D. student in computer vision at Zhejiang University, advised by Prof. <a href="https://scholar.google.com/citations?user=qfAg9nUAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Hui-Liang Shen</a> and Dr. <a href="https://scholar.google.com/citations?user=G35eh30AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Si-Yuan Cao</a>. Previously, I earned my bachelor's degree from Zhejiang University.
 </p>
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
-My research interests lie in image matching, 3D reconstruction/perception, and multi-modal image processing, etc. Feel free to contact me using Email (runmin_zhang@zju.edu.cn).
+My research interests lie in image matching, 3D vison, and multi-modal image processing, etc. Feel free to contact me using Email (runmin_zhang@zju.edu.cn).
 </p>
 
 ## 📚 Selected Publications
@@ -23,7 +23,7 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
 *equal contribution; †corresponding author.
 </p>
 
-### 3D Reconstruction/Perception
+### 3D Vision
 <table style="border: none;">
   <tr>
     <td width="160" style="border: none;">
@@ -33,6 +33,8 @@ My research interests lie in image matching, 3D reconstruction/perception, and m
       <b>Large Depth Completion Model from Sparse Observations</b><br>
       Zhu Yu, Zhengyi Zhao, <b>Runmin Zhang</b>, Lingteng Qiu, Kejie Qiu, Yisheng He, Siyu Zhu, Zilong Dong†, Si-Yuan Cao†, Hui-liang Shen<br>
       <em>International Conference on Learning Representations (ICLR), 2026</em><br>
+      <a href="https://arxiv.org/abs/2605.30115">[Paper]</a>
+      <a href="https://github.com/aigc3d/LDCM">[Code]</a>
     </td>
   </tr>
   <tr>

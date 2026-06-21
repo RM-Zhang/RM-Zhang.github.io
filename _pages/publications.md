@@ -28,6 +28,17 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       <b>Large Depth Completion Model from Sparse Observations</b><br>
       Zhu Yu, Zhengyi Zhao, <b>Runmin Zhang</b>, Lingteng Qiu, Kejie Qiu, Yisheng He, Siyu Zhu, Zilong Dong†, Si-Yuan Cao†, Hui-liang Shen<br>
       <em>International Conference on Learning Representations (ICLR), 2026</em><br>
+      <a href="https://arxiv.org/abs/2605.30115">[Paper]</a>
+      <a href="https://github.com/aigc3d/LDCM">[Code]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <b>Towards Consistent Video Geometry Estimation</b><br>
+      Zhu Yu*, Jingnan Gao*, <b>Runmin Zhang</b>, Lingteng Qiu, Zhengyi Zhao, Rui Peng, Yichao Yan, Kejie Qiu, Siyu Zhu, Zilong Dong, Si-Yuan Cao, Hui-Liang Shen<br>
+      <em>arXiv, 2026</em><br>
+      <a href="https://arxiv.org/abs/2605.30060">[Paper]</a>
+      <a href="https://github.com/aigc3d/ViGeo">[Code]</a>
     </td>
   </tr>
 </table>
