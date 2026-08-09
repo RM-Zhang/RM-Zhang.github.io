@@ -36,6 +36,17 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.wechat %}
+        <li class="author__wechat">
+          <details>
+            <summary><i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat</summary>
+            <div class="author__wechat-card">
+              <img src="{{ author.wechat | prepend: "/images/" | prepend: base_path }}" alt="Runmin Zhang's WeChat QR code" loading="lazy">
+              <span>Scan to add me on WeChat</span>
+            </div>
+          </details>
+        </li>
+      {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}

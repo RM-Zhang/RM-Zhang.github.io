@@ -15,7 +15,7 @@ redirect_from:
 I am a Ph.D. student in computer vision at Zhejiang University, advised by Prof. <a href="https://scholar.google.com/citations?user=qfAg9nUAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Hui-Liang Shen</a> and Dr. <a href="https://scholar.google.com/citations?user=G35eh30AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Si-Yuan Cao</a>. Previously, I earned my bachelor's degree from Zhejiang University.
 </p>
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
-My research interests lie in image matching, 3D vison, and multi-modal image processing, etc. Outside of research, I enjoy marathon running and hiking.
+My research interests lie in image matching, 3D Reconstruction, and video generation. Outside of research, I enjoy marathon running and hiking.
 </p>
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
 Feel free to contact me using Email (runmin_zhang@zju.edu.cn).
@@ -28,6 +28,18 @@ Feel free to contact me using Email (runmin_zhang@zju.edu.cn).
 
 ### 3D Vision
 <table style="border: none;">
+  <tr>
+    <td width="160" style="border: none;">
+      <img src="/images/pub_tearse/tearse-ViGeo.png" width="150">
+    </td>
+    <td style="border: none;">
+      <b>Towards Consistent Video Geometry Estimation</b><br>
+      Zhu Yu*, Jingnan Gao*, <b>Runmin Zhang</b>, Lingteng Qiu, Zhengyi Zhao, Rui Peng, Yichao Yan, Kejie Qiu, Siyu Zhu, Zilong Dong, Si-Yuan Cao, Hui-Liang Shen<br>
+      <em>arXiv, 2026</em><br>
+      <a href="https://arxiv.org/abs/2605.30060">[Paper]</a>
+      <a href="https://github.com/aigc3d/ViGeo">[Code]</a>
+    </td>
+  </tr>
   <tr>
     <td width="160" style="border: none;">
       <img src="/images/pub_tearse/tearse-LDCM.png" width="140">
