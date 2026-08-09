@@ -18,7 +18,7 @@ I am a Ph.D. student in computer vision at Zhejiang University, advised by Prof.
 My research interests lie in image matching, 3D Reconstruction, and video generation. Outside of research, I enjoy marathon running and hiking.
 </p>
 <p style="font-size: 0.95em; line-height: 1.5; margin-bottom: 5px;">
-Feel free to contact me using Email (runmin_zhang@zju.edu.cn).
+Feel free to contact me using Email or WeChat.
 </p>
 
 ## 📚 Selected Publications
