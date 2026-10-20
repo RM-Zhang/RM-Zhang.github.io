@@ -1,0 +1,69 @@
+.paper-byline {
+  margin: 32px auto 0;
+  max-width: 1040px;
+  color: #494e52;
+  text-align: center;
+  letter-spacing: 0;
+}
+
+.paper-author-row,
+.paper-affiliations,
+.paper-author-notes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.paper-author-row {
+  gap: 8px 18px;
+  font-size: 21px;
+  line-height: 1.65;
+}
+
+.paper-author-row + .paper-author-row {
+  margin-top: 6px;
+}
+
+.paper-author,
+.paper-affiliations > span,
+.paper-author-notes > span {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.paper-author a {
+  color: #1878bc;
+}
+
+.paper-byline sup {
+  margin-left: 2px;
+  font-size: 65%;
+  line-height: 0;
+  vertical-align: super;
+}
+
+.paper-affiliations {
+  gap: 8px 28px;
+  margin-top: 22px;
+  font-size: 20px;
+}
+
+.paper-author-notes {
+  gap: 6px 20px;
+  margin-top: 12px;
+  color: #59616b;
+  font-size: 15px;
+}
+
+.paper-affiliations sup,
+.paper-author-notes sup {
+  margin: 0 3px 0 0;
+}
+
+@media (max-width: 760px) {
+  .paper-byline { margin-top: 24px; }
+  .paper-author-row { gap: 8px 14px; font-size: 18px; }
+  .paper-affiliations { gap: 6px 20px; font-size: 17px; }
+  .paper-author-notes { gap: 4px 14px; font-size: 13px; }
+}

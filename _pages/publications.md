@@ -16,6 +16,13 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 <table style="border: none; width: 100%;">
   <tr>
     <td style="border: none;">
+      <b>Unaligned Image Guided Denoising via Cross-modal Conditional Flow Matching</b><br>
+      <b>Runmin Zhang</b>*, Linshan Li*, Si-Yuan Cao, Zhu Yu, Lingyu Zhu, Huaqi Zhang, Hui-Liang Shen†<br>
+      <em>Conference on Neural Information Processing Systems (NeurIPS), 2026</em><br>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
       <b>Rethinking Unsupervised Cross-modal Flow Estimation: Learning from Decoupled Optimization and Consistency Constraint</b><br>
       <b>Runmin Zhang</b>, Jialiang Wang, Si-Yuan Cao†, Zhu Yu, Junchen Yu, Guangyi Zhang, Hui-Liang Shen<br>
       <em>International Conference on Learning Representations (ICLR), 2026</em><br>
@@ -30,7 +37,24 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       <em>International Conference on Learning Representations (ICLR), 2026</em><br>
       <a href="https://arxiv.org/abs/2605.30115">[Paper]</a>
       <a href="https://github.com/aigc3d/LDCM">[Code]</a>
+      <a href="https://pkqbajng.github.io/ldcm/">[Project page]</a>
     </td>
+  <tr>
+    <td style="border: none;">
+      <b>RadarFuser: One-Stage Radar-Camera Depth Estimation With Early and Point-Guided Fusion</b><br>
+      Chenghao Zhang, Fuyi Zhang, Zhu Yu, <b>Runmin Zhang</b>, Xiaokai Bai, Si-Yuan Cao, Wangping Xu, Rongheng Chen, Hui-Liang Shen†<br>
+      <em>IEEE Robotics and Automation Letters (RA-L), 2026</em><br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11694329/">[Paper]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <b>SplatFlux: Feed-Forward 4D Gaussian Reconstruction and Generation from Video Latents</b><br>
+      <b>Runmin Zhang</b>*, Binglin Ren*, Zhu Yu*, Fudong Wang, Jiangke Lin, Yichun Shentu, Si-Yuan Cao, Yi Yuan†, Hui-Liang Shen†<br>
+      <em>arXiv, 2026</em><br>
+      <a href="{{ '/SplatFlux/' | relative_url }}">[Project Page]</a>
+    </td>
+  </tr>
   </tr>
   <tr>
     <td style="border: none;">
@@ -39,6 +63,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       <em>arXiv, 2026</em><br>
       <a href="https://arxiv.org/abs/2605.30060">[Paper]</a>
       <a href="https://github.com/aigc3d/ViGeo">[Code]</a>
+      <a href="https://pkqbajng.github.io/ViGeo/">[Project page]</a>
     </td>
   </tr>
 </table>
