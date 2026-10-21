@@ -52,6 +52,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
       <b>SplatFlux: Feed-Forward 4D Gaussian Reconstruction and Generation from Video Latents</b><br>
       <b>Runmin Zhang</b>*, Binglin Ren*, Zhu Yu*, Fudong Wang, Jiangke Lin, Yichun Shentu, Si-Yuan Cao, Yi Yuan†, Hui-Liang Shen†<br>
       <em>arXiv, 2026</em><br>
+      <a href="https://arxiv.org/abs/2610.28257">[Paper]</a>
       <a href="{{ '/SplatFlux/' | relative_url }}">[Project Page]</a>
     </td>
   </tr>
